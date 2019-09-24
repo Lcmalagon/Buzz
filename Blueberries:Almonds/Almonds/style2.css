@@ -1,0 +1,15 @@
+html2,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.axis {
+  font: 14px sans-serif;
+}
+
+.line {
+  fill: none;
+  stroke: rgb(126, 134, 55);
+  stroke-width: 4px;
+}
